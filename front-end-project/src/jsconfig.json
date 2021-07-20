@@ -1,0 +1,5 @@
+{
+    "compielerOptions":{
+        "target":"es6"
+    }
+}
